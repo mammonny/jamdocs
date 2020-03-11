@@ -23,7 +23,7 @@ query Doc ($path: String!) {
 export default {
   metaInfo() {
     return {
-      title: {{ date }},
+      title: "$page.frontmatter.date",
       meta: [
         { key: 'description', name: 'description', content: this.$page.doc.description }
       ]
