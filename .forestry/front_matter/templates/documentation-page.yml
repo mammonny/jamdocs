@@ -14,5 +14,16 @@ fields:
 - type: text
   name: slug
   label: slug
+- name: meta-title
+  type: text
+  config:
+    required: false
+  label: meta-title
+- name: meta-description
+  type: text
+  config:
+    required: false
+  label: meta-description
 pages:
 - docs/editing-in-forestry.md
+- docs/hackear-instagram.md
