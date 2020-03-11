@@ -15,6 +15,8 @@ query Doc ($path: String!) {
     date (format: "D. MMMM YYYY")
     timeToRead
     content
+    meta-title
+    meta-description
   }
 }
 </page-query>
