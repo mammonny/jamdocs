@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <h1>
-      {{ $page.doc.title }}
+      {{ $page.doc.slug }}
     </h1>
      <div class="markdown" v-html="$page.doc.content" />
   </Layout>
