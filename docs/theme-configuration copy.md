@@ -1,7 +1,7 @@
 ---
-title: Theme configuration
+title: Theme configuration2
 date: 2018-09-15T07:42:34.000+00:00
-slug: theme-configuration
+slug: theme-configuration2
 metatitle: "1234"
 metadescription: "124314"
 

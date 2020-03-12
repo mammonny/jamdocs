@@ -2,6 +2,8 @@
 title: Forestry CMS
 date: 2020-01-02
 slug: forestry-cms
+metatitle: "3214"
+metadescription: "23143124"
 
 ---
 ## Import starter
@@ -11,7 +13,7 @@ slug: forestry-cms
 This project has been pre-configured to work with Forestry, just import your repository ✨
 Any changes you make will be commited back to the repo,
 
-## Start Instant Previews
+### Start Instant Previews
 
 Start the preview environement if you want to be able to preview your website.
 
