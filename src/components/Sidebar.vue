@@ -38,7 +38,7 @@ query Menu {
     edges {
       node {
         slug
-        headings {
+        headings(depth: "h2") {
           value
           anchor
         }
